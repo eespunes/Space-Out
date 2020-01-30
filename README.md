@@ -1,4 +1,4 @@
-# Space-Out
+# Space Out
 Game made by Sofian Ben Ayata and Erik Espuñes.
 Done for the Ludum Dare Jam.
 
